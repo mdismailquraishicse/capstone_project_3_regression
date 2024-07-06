@@ -1,2 +1,3 @@
 .ipynb_checkpoints/
 __pycache__/
+data/rossmann_eda_done.csv
